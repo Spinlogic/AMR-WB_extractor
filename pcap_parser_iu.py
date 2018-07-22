@@ -1,7 +1,7 @@
 '''
 Pcap file parser with Iu framing protocol.
 This script parses a pcap file to extract rtp amr-wb data, encapsulated 
-using IuUP framing protocol (TS25.214), and stores it in a file
+using IuUP framing protocol (TS25.415), and stores it in a file
 file with the storage format defined in section 5 of RFC4864.
 
 The pcap file must contain only one RTP flow with amr-wb codec data. Any 
