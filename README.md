@@ -19,7 +19,7 @@ where:
 **pcap_parser_iu.py** use this script if the AMR-WB data inside the RTP is encapsulated using the Iu framing protocol (refer to 3GPP TS25.415).
 
 ## Tools
-Due to license issues, there are few media players out there that can play AMR-WB encoded audio files. However, the latest versions of ffmpeg support this codec and can be used to convert AMR-WB audio to PCM audio with the following command:
+Due to license issues, there are few media players out there that can play AMR-WB encoded audio files. However, the latest versions of [ffmpeg](https://ffmpeg.org/) support this codec and can be used to convert AMR-WB audio to PCM audio with the following command:
 
 >ffmpeg.exe -i amrwbencodedfile.amr-wb pcmencodedfile.wav
 
