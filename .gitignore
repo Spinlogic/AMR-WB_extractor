@@ -1,0 +1,6 @@
+*.pcap
+*.pcapng
+*.exe
+*.wav
+*.amr-wb
+/rtpamrw_env
