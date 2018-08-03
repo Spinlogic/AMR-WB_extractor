@@ -1,4 +1,0 @@
-v=0
-c=IN IP4 127.0.0.1
-m=audio 4646 RTP/AVP 97
-a=rtpmap:97 AMR-WB/16000
